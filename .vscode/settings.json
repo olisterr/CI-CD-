@@ -1,0 +1,10 @@
+{
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}",
+        "${PerTenantExtensionCop}"
+    ],
+    "CRS.OnSaveAlFileAction": "Rename",
+    "CRS.AlSubFolderName": "None"
+}

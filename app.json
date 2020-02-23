@@ -1,0 +1,32 @@
+{
+  "id": "ab9ead8b-6780-4baa-85b7-1589cde62647",
+  "name": "CICD",
+  "publisher": "Default publisher",
+  "version": "1.0.0.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    }
+  ],
+  "platform": "15.0.0.0",
+  "contextSensitiveHelpUrl": "https://CICD.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
